@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.ant-form{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  height: 700px;
+}
+
+.ant-tabs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* width: 300px; */
+  height: 400px;
+}
+
+.charts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.multi-chart {
+  width: 90%;
+}
+
+.ant-layout-content{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.pie-sub-title {
+  font-size: 18px;
+}
+
+.part {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.selectSet {
+  display: flex;
+}
+
+.circle {
+  height: 10px;
+  width: 10px;
+  border-radius: 100%;
+  margin-right: 1px;
+}
+
+.circle-container {
+  display: flex;
+  align-content: center;
+}
+
+.ant-table-row-cell-break-word {
+  height: 46px;
+}
+
+.legend {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.legend-set {
+  display: flex;
+  justify-content: space-between;
+  height: 25px;
+  align-items: baseline;
+}
+
+#components-layout-demo-fixed-sider .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
